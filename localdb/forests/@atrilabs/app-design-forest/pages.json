@@ -1,0 +1,18 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "9c7bac6f-0297-4b79-a93b-4359558b59f5": {
+    "name": "about",
+    "route": "/about"
+  },
+  "6f3b50ed-fce2-4313-931a-b1bf1f63e76b": {
+    "name": "features",
+    "route": "/features"
+  },
+  "38702541-857c-403a-b932-fb36e316e99e": {
+    "name": "pricing",
+    "route": "/pricing"
+  }
+}
