@@ -46,7 +46,7 @@ justify-content: center;
 flex-direction: column;
 padding-top: 100px;
 row-gap: 15px;
-background-image: url("/app-assets/61f7240dad0d12c4a7e64675_home-background-codely-webflow-template.jpeg");
+background-image: url("/ed_tech_demo/app-assets/61f7240dad0d12c4a7e64675_home-background-codely-webflow-template.jpeg");
 background-repeat: round;
 background-position-y: 120px;
 background-origin: border-box;
@@ -253,7 +253,7 @@ justify-content: space-around;
 }
 .p-Home.Flex61 {
 display: flex;
-background-image: url("/app-assets/61e1d27963c4bc4fbe69d9f9_blob-1-bg-codely-webflow-template.png");
+background-image: url("/ed_tech_demo/app-assets/61e1d27963c4bc4fbe69d9f9_blob-1-bg-codely-webflow-template.png");
 padding-left: 50px;
 padding-right: ;
 padding-top: 50px;
@@ -343,7 +343,7 @@ padding-bottom: ;
 display: flex;
 flex-direction: column;
 row-gap: 45px;
-background-image: url("/app-assets/61eb31797ea65f31424db27c_inner-section-dark-bg-blur-codely-webflow-ecommerce-template.png");
+background-image: url("/ed_tech_demo/app-assets/61eb31797ea65f31424db27c_inner-section-dark-bg-blur-codely-webflow-ecommerce-template.png");
 background-repeat: round;
 padding-top: 150px;
 padding-left: 100px;
@@ -446,7 +446,7 @@ padding-bottom: 10px;
 }
 .p-Home.Flex94 {
 display: flex;
-background-image: url("/app-assets/61eb32cf8838a15d0e973db0_cta-big-bg-blur-codely-webflow-ecommerce-template.png");
+background-image: url("/ed_tech_demo/app-assets/61eb32cf8838a15d0e973db0_cta-big-bg-blur-codely-webflow-ecommerce-template.png");
 flex-direction: column;
 align-items: center;
 padding-bottom: ;
@@ -643,7 +643,7 @@ color: #fffefe;
 }
 .p-Home.Flex130 {
 display: flex;
-background-image: url("/app-assets/61e5ac43237b05789265a8c4_testimonial-bg-blob-codely-webflow-ecommerce-template.svg");
+background-image: url("/ed_tech_demo/app-assets/61e5ac43237b05789265a8c4_testimonial-bg-blob-codely-webflow-ecommerce-template.svg");
 flex-direction: column;
 align-items: center;
 row-gap: 25px;
@@ -725,7 +725,7 @@ border-color: #eae6e6;
 }
 .p-Home.Flex138 {
 display: flex;
-background-image: url("/app-assets/61eb33edcf8b5cd108e17d94_cta-main-bg-blur-codely-webflow-ecommerce-template.png");
+background-image: url("/ed_tech_demo/app-assets/61eb33edcf8b5cd108e17d94_cta-main-bg-blur-codely-webflow-ecommerce-template.png");
 padding-top: 100px;
 padding-bottom: ;
 padding-left: 50px;
@@ -789,7 +789,7 @@ background-color: #050505;
 .p-Home.Flex148 {
 display: flex;
 width: 100%;
-background-image: url("/app-assets/61eb3a2129adec31a7d8e57b_footer-bg-blur-codely-webflow-ecommerce-template.png");
+background-image: url("/ed_tech_demo/app-assets/61eb3a2129adec31a7d8e57b_footer-bg-blur-codely-webflow-ecommerce-template.png");
 justify-content: center;
 padding-top: 100px;
 padding-bottom: 100px;

@@ -394,7 +394,7 @@ const desktopModeProps = {
     "Image1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
+        "src": "/ed_tech_demo/app-assets/logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -482,7 +482,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down-arrow-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/down-arrow-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -543,7 +543,7 @@ const desktopModeProps = {
     "Image2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/lock-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/lock-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -580,7 +580,7 @@ const desktopModeProps = {
     "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f70800f8b8b451668d050f_developer-tool-codely-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f70800f8b8b451668d050f_developer-tool-codely-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -605,7 +605,7 @@ const desktopModeProps = {
     "Image4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -630,7 +630,7 @@ const desktopModeProps = {
     "Image5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -643,7 +643,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d553e51405a00eb2d9_google-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d553e51405a00eb2d9_google-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -656,7 +656,7 @@ const desktopModeProps = {
     "Image8": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d53228a80327e3ea62_facebook-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d53228a80327e3ea62_facebook-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -669,7 +669,7 @@ const desktopModeProps = {
     "Image9": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d5a273b7f219360a90_youtube-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d5a273b7f219360a90_youtube-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -682,7 +682,7 @@ const desktopModeProps = {
     "Image10": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d6293eacffb6b261b2_pinterest-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d6293eacffb6b261b2_pinterest-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -695,7 +695,7 @@ const desktopModeProps = {
     "Image11": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d518a2006a8df93841_twitch-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d518a2006a8df93841_twitch-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -708,7 +708,7 @@ const desktopModeProps = {
     "Image12": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d6293eac5275b261b3_webflow-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d6293eac5275b261b3_webflow-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -721,7 +721,7 @@ const desktopModeProps = {
     "Image19": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d50a51c77ef60ca97f_linkedin-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d50a51c77ef60ca97f_linkedin-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -734,7 +734,7 @@ const desktopModeProps = {
     "Image20": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d56ba9ba6426f9dd04_discord-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d56ba9ba6426f9dd04_discord-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -747,7 +747,7 @@ const desktopModeProps = {
     "Image21": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d6f5ef8e5f23c27b1a_medium-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d6f5ef8e5f23c27b1a_medium-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -760,7 +760,7 @@ const desktopModeProps = {
     "Image22": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/ree.svg"
+        "src": "/ed_tech_demo/app-assets/ree.svg"
       },
       "callbacks": {
         "onClick": [
@@ -773,7 +773,7 @@ const desktopModeProps = {
     "Image23": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d76ba9ba3f67f9ddd6_spotify-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d76ba9ba3f67f9ddd6_spotify-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -810,7 +810,7 @@ const desktopModeProps = {
     "Image25": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1b2e15ca64cf7330124a6_html5-logo-square-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1b2e15ca64cf7330124a6_html5-logo-square-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -847,7 +847,7 @@ const desktopModeProps = {
     "Image29": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -860,7 +860,7 @@ const desktopModeProps = {
     "Image26": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1b2e179d79c85095d6aa7_python-logo-square-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1b2e179d79c85095d6aa7_python-logo-square-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -873,7 +873,7 @@ const desktopModeProps = {
     "Image30": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -910,7 +910,7 @@ const desktopModeProps = {
     "Image27": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1b2e1c5843d5b666b9bd5_ruby-on-rails-logo-square-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1b2e1c5843d5b666b9bd5_ruby-on-rails-logo-square-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -923,7 +923,7 @@ const desktopModeProps = {
     "Image31": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -960,7 +960,7 @@ const desktopModeProps = {
     "Image28": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1b2e173e29a7d2fb10bf8_c++-logo-square-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1b2e173e29a7d2fb10bf8_c++-logo-square-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -973,7 +973,7 @@ const desktopModeProps = {
     "Image32": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1010,7 +1010,7 @@ const desktopModeProps = {
     "Image24": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e60506c5dae076de78aaff_html5-tab-content-codely-webflow-ecommerce-template-p-800.png"
+        "src": "/ed_tech_demo/app-assets/61e60506c5dae076de78aaff_html5-tab-content-codely-webflow-ecommerce-template-p-800.png"
       },
       "callbacks": {
         "onClick": [
@@ -1023,7 +1023,7 @@ const desktopModeProps = {
     "Image37": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1048,7 +1048,7 @@ const desktopModeProps = {
     "Image38": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1073,7 +1073,7 @@ const desktopModeProps = {
     "Image41": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1ce4f4c9ad9456a638b26_codely-interface-2-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1ce4f4c9ad9456a638b26_codely-interface-2-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1098,7 +1098,7 @@ const desktopModeProps = {
     "Image42": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1ca5a968f82e35fb7bcf6_collaborators-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1ca5a968f82e35fb7bcf6_collaborators-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1135,7 +1135,7 @@ const desktopModeProps = {
     "Image43": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1ca5a802a8660f77155a2_works-on-all-platforms-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1ca5a802a8660f77155a2_works-on-all-platforms-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1184,7 +1184,7 @@ const desktopModeProps = {
     "Image96": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1209,7 +1209,7 @@ const desktopModeProps = {
     "Image97": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1246,7 +1246,7 @@ const desktopModeProps = {
     "Image44": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1271,7 +1271,7 @@ const desktopModeProps = {
     "Image45": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1284,7 +1284,7 @@ const desktopModeProps = {
     "Image54": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1d4d0d8daa1d399f7a80a_ai-code-autocomplete-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1d4d0d8daa1d399f7a80a_ai-code-autocomplete-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1345,7 +1345,7 @@ const desktopModeProps = {
     "Image55": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1d4d0d8daa1720df7a80b_over-50-languages-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1d4d0d8daa1720df7a80b_over-50-languages-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1382,7 +1382,7 @@ const desktopModeProps = {
     "Image56": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1d4d08ff4c4ae1379595b_available-on-all-platforms-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1d4d08ff4c4ae1379595b_available-on-all-platforms-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1395,7 +1395,7 @@ const desktopModeProps = {
     "Image57": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1d4d0aa22ceefa04a2c45_granular-permissions-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1d4d0aa22ceefa04a2c45_granular-permissions-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1432,7 +1432,7 @@ const desktopModeProps = {
     "Image58": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1d4d0be916ceda790743f_code-debugger-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1d4d0be916ceda790743f_code-debugger-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1493,7 +1493,7 @@ const desktopModeProps = {
     "Image59": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1d4d01d511573cbaff614_real-time-code-save-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1d4d01d511573cbaff614_real-time-code-save-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1530,7 +1530,7 @@ const desktopModeProps = {
     "Image60": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e2056e724df5a820ad22ad_codely-interface-3-codely-webflow-ecommerce-template.png"
+        "src": "/ed_tech_demo/app-assets/61e2056e724df5a820ad22ad_codely-interface-3-codely-webflow-ecommerce-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -1543,7 +1543,7 @@ const desktopModeProps = {
     "Image61": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e20c8d1388aa55cbcbd779_cta-big-floating-image-1-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e20c8d1388aa55cbcbd779_cta-big-floating-image-1-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1556,7 +1556,7 @@ const desktopModeProps = {
     "Image62": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e20c8d4ff44380613dd9e7_cta-big-floating-image-2-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e20c8d4ff44380613dd9e7_cta-big-floating-image-2-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1581,7 +1581,7 @@ const desktopModeProps = {
     "Image63": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1606,7 +1606,7 @@ const desktopModeProps = {
     "Image64": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1619,7 +1619,7 @@ const desktopModeProps = {
     "Image68": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61eaf2c1c5a1010fbf1b7092_programming-languages-cards-codely-webflow-ecommerce-template.png"
+        "src": "/ed_tech_demo/app-assets/61eaf2c1c5a1010fbf1b7092_programming-languages-cards-codely-webflow-ecommerce-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -1656,7 +1656,7 @@ const desktopModeProps = {
     "Image69": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1681,7 +1681,7 @@ const desktopModeProps = {
     "Image70": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1730,7 +1730,7 @@ const desktopModeProps = {
     "Image79": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61ead6d689e6ee714589071a_front-end-developers-illustration-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61ead6d689e6ee714589071a_front-end-developers-illustration-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1743,7 +1743,7 @@ const desktopModeProps = {
     "Image80": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61ead6d7fc00c4822aa431a8_backend-developers-illustration-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61ead6d7fc00c4822aa431a8_backend-developers-illustration-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1780,7 +1780,7 @@ const desktopModeProps = {
     "Image81": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61ead77b9c72762f1173e745_devops-illustration-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61ead77b9c72762f1173e745_devops-illustration-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1829,7 +1829,7 @@ const desktopModeProps = {
     "Image72": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1854,7 +1854,7 @@ const desktopModeProps = {
     "Image73": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -1903,7 +1903,7 @@ const desktopModeProps = {
     "Image82": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e59ed78bb8e30de0232546_testimonial-card-border-top-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e59ed78bb8e30de0232546_testimonial-card-border-top-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1940,7 +1940,7 @@ const desktopModeProps = {
     "Image83": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/michael-dam-mEZ3PoFGs_k-unsplash%20(2).jpg"
+        "src": "/ed_tech_demo/app-assets/michael-dam-mEZ3PoFGs_k-unsplash%20(2).jpg"
       },
       "callbacks": {
         "onClick": [
@@ -1977,7 +1977,7 @@ const desktopModeProps = {
     "Image84": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d553e51405a00eb2d9_google-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d553e51405a00eb2d9_google-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1990,7 +1990,7 @@ const desktopModeProps = {
     "Image85": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d53228a80327e3ea62_facebook-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d53228a80327e3ea62_facebook-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2003,7 +2003,7 @@ const desktopModeProps = {
     "Image86": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1a1d5a273b7f219360a90_youtube-logo-black-codely-webflow-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1a1d5a273b7f219360a90_youtube-logo-black-codely-webflow-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2052,7 +2052,7 @@ const desktopModeProps = {
     "Image87": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -2077,7 +2077,7 @@ const desktopModeProps = {
     "Image88": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -2090,7 +2090,7 @@ const desktopModeProps = {
     "Image89": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5c6b17115407c4efb5b60_codely-interface-4-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5c6b17115407c4efb5b60_codely-interface-4-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2103,7 +2103,7 @@ const desktopModeProps = {
     "Image94": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5c547a2373f000a82ade4_cta-floating-image-1-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5c547a2373f000a82ade4_cta-floating-image-1-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2116,7 +2116,7 @@ const desktopModeProps = {
     "Image95": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5b4bdbb8c472518d2e166_logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5b4bdbb8c472518d2e166_logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2747,7 +2747,7 @@ const desktopModeProps = {
     "Image100": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
+        "src": "/ed_tech_demo/app-assets/logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2775,7 +2775,7 @@ const desktopModeProps = {
     "Image98": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/lock-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/lock-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2884,7 +2884,7 @@ const desktopModeProps = {
     "Image99": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down-arrow-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/down-arrow-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2945,7 +2945,7 @@ const desktopModeProps = {
     "Image103": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -2970,7 +2970,7 @@ const desktopModeProps = {
     "Image104": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -2995,7 +2995,7 @@ const desktopModeProps = {
     "Image102": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/img_1.png"
+        "src": "/ed_tech_demo/app-assets/img_1.png"
       },
       "callbacks": {
         "onClick": [
@@ -3188,7 +3188,7 @@ const desktopModeProps = {
     "Image105": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f729dd54f03b295f91035c_story-codely-codely-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f729dd54f03b295f91035c_story-codely-codely-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -3201,7 +3201,7 @@ const desktopModeProps = {
     "Image106": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f729dd54f03b295f91035c_story-codely-codely-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f729dd54f03b295f91035c_story-codely-codely-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -3286,7 +3286,7 @@ const desktopModeProps = {
     "Image114": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -3311,7 +3311,7 @@ const desktopModeProps = {
     "Image108": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e07e4a00e7748459042d10_john-carter-team-member-brix-templates-avatar-picture.jpeg"
+        "src": "/ed_tech_demo/app-assets/61e07e4a00e7748459042d10_john-carter-team-member-brix-templates-avatar-picture.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3372,7 +3372,7 @@ const desktopModeProps = {
     "Image109": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e07e4a00e7740be1042d0d_sohphie-moore-team-member-brix-templates-avatar-picture.jpeg"
+        "src": "/ed_tech_demo/app-assets/61e07e4a00e7740be1042d0d_sohphie-moore-team-member-brix-templates-avatar-picture.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3409,7 +3409,7 @@ const desktopModeProps = {
     "Image110": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e07e4a00e774861a042d08_matt-cannon-team-member-brix-templates-avatar-picture.jpeg"
+        "src": "/ed_tech_demo/app-assets/61e07e4a00e774861a042d08_matt-cannon-team-member-brix-templates-avatar-picture.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3422,7 +3422,7 @@ const desktopModeProps = {
     "Image111": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e07e4a00e774400e042d0a_patrick-meyer-team-member-brix-templates-avatar-picture.jpeg"
+        "src": "/ed_tech_demo/app-assets/61e07e4a00e774400e042d0a_patrick-meyer-team-member-brix-templates-avatar-picture.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3459,7 +3459,7 @@ const desktopModeProps = {
     "Image112": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e07e4a00e7744737042d06_lily-woods-team-member-brix-templates-avatar-picture.jpeg"
+        "src": "/ed_tech_demo/app-assets/61e07e4a00e7744737042d06_lily-woods-team-member-brix-templates-avatar-picture.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3520,7 +3520,7 @@ const desktopModeProps = {
     "Image113": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e07e4a00e7740564042d07_andy-smith-team-member-brix-templates-avatar-picture.jpeg"
+        "src": "/ed_tech_demo/app-assets/61e07e4a00e7740564042d07_andy-smith-team-member-brix-templates-avatar-picture.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -3545,7 +3545,7 @@ const desktopModeProps = {
     "Image127": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31bf0ace215db541cf5_google-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31bf0ace215db541cf5_google-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3558,7 +3558,7 @@ const desktopModeProps = {
     "Image128": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31c0b3ef3455500b91a_facebook-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31c0b3ef3455500b91a_facebook-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3571,7 +3571,7 @@ const desktopModeProps = {
     "Image129": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31c83bdda1c2289fc6d_youtube-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31c83bdda1c2289fc6d_youtube-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3584,7 +3584,7 @@ const desktopModeProps = {
     "Image130": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d26c46e2eed827ba9_pinterest-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d26c46e2eed827ba9_pinterest-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3597,7 +3597,7 @@ const desktopModeProps = {
     "Image131": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d83c8f85278a71f0b_twitch-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d83c8f85278a71f0b_twitch-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3610,7 +3610,7 @@ const desktopModeProps = {
     "Image132": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d0dfea322efc0682d_webflow-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d0dfea322efc0682d_webflow-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3623,7 +3623,7 @@ const desktopModeProps = {
     "Image133": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d664ff71f5615acfa_spotify-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d664ff71f5615acfa_spotify-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3636,7 +3636,7 @@ const desktopModeProps = {
     "Image134": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d93980955deae8354_reddit-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d93980955deae8354_reddit-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3649,7 +3649,7 @@ const desktopModeProps = {
     "Image136": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d5cf27caceb1c91cf_medium-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d5cf27caceb1c91cf_medium-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3662,7 +3662,7 @@ const desktopModeProps = {
     "Image137": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d66486f9901f3a83b_discord-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d66486f9901f3a83b_discord-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3675,7 +3675,7 @@ const desktopModeProps = {
     "Image138": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5f31d9040da1319ba2a76_linkedin-logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5f31d9040da1319ba2a76_linkedin-logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3688,7 +3688,7 @@ const desktopModeProps = {
     "Image154": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e6004216583e0a8364894a_innovation-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e6004216583e0a8364894a_innovation-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3725,7 +3725,7 @@ const desktopModeProps = {
     "Image155": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e600424d9e2e82ecffa1db_accountability-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e600424d9e2e82ecffa1db_accountability-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3762,7 +3762,7 @@ const desktopModeProps = {
     "Image156": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e60041ea8d7f5431a5c73d_commitment-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e60041ea8d7f5431a5c73d_commitment-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3799,7 +3799,7 @@ const desktopModeProps = {
     "Image147": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -3824,7 +3824,7 @@ const desktopModeProps = {
     "Image148": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -3873,7 +3873,7 @@ const desktopModeProps = {
     "Image163": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e6004310cf277235446c7b_efficiency-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e6004310cf277235446c7b_efficiency-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3910,7 +3910,7 @@ const desktopModeProps = {
     "Image164": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e60042d37cf79bf76f3c41_ownership-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e60042d37cf79bf76f3c41_ownership-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3947,7 +3947,7 @@ const desktopModeProps = {
     "Image165": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e1ca5a968f82e35fb7bcf6_collaborators-icon-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e1ca5a968f82e35fb7bcf6_collaborators-icon-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3984,7 +3984,7 @@ const desktopModeProps = {
     "Image172": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5c547a2373f000a82ade4_cta-floating-image-1-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5c547a2373f000a82ade4_cta-floating-image-1-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -3997,7 +3997,7 @@ const desktopModeProps = {
     "Image173": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5c6b17115407c4efb5b60_codely-interface-4-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5c6b17115407c4efb5b60_codely-interface-4-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4034,7 +4034,7 @@ const desktopModeProps = {
     "Image170": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -4059,7 +4059,7 @@ const desktopModeProps = {
     "Image171": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com%20(3).svg"
+        "src": "/ed_tech_demo/app-assets/right-arrow-svgrepo-com%20(3).svg"
       },
       "callbacks": {
         "onClick": [
@@ -4420,7 +4420,7 @@ const desktopModeProps = {
     "Image175": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5b4bdbb8c472518d2e166_logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5b4bdbb8c472518d2e166_logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4547,7 +4547,7 @@ const desktopModeProps = {
     "Image179": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
+        "src": "/ed_tech_demo/app-assets/logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4572,7 +4572,7 @@ const desktopModeProps = {
     "Image177": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/lock-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/lock-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4681,7 +4681,7 @@ const desktopModeProps = {
     "Image178": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down-arrow-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/down-arrow-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4754,7 +4754,7 @@ const desktopModeProps = {
     "Image180": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f72fcabc28577a44fe7cdc_granular-permissions-codely-x-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f72fcabc28577a44fe7cdc_granular-permissions-codely-x-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -4791,7 +4791,7 @@ const desktopModeProps = {
     "Image181": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f72fca497c26037caec0b6_code-debugger-codely-x-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f72fca497c26037caec0b6_code-debugger-codely-x-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -4804,7 +4804,7 @@ const desktopModeProps = {
     "Image182": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f72fca69dfaf8789df72de_real-time-code-save-codely-x-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f72fca69dfaf8789df72de_real-time-code-save-codely-x-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -4865,7 +4865,7 @@ const desktopModeProps = {
     "Image183": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f72fcad49a537aeb3b1d61_ai-code-codely-x-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f72fcad49a537aeb3b1d61_ai-code-codely-x-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -4878,7 +4878,7 @@ const desktopModeProps = {
     "Image184": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f72fcad2b72f133e5cc4b4_50-languages-codely-x-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f72fcad2b72f133e5cc4b4_50-languages-codely-x-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -4915,7 +4915,7 @@ const desktopModeProps = {
     "Image185": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61f72fcafee47eca9fe44fd9_available-on-all-platforms-codely-x-webflow-template.png"
+        "src": "/ed_tech_demo/app-assets/61f72fcafee47eca9fe44fd9_available-on-all-platforms-codely-x-webflow-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -5288,7 +5288,7 @@ const desktopModeProps = {
     "Image187": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e5b4bdbb8c472518d2e166_logo-white-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e5b4bdbb8c472518d2e166_logo-white-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5415,7 +5415,7 @@ const desktopModeProps = {
     "Image190": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
+        "src": "/ed_tech_demo/app-assets/logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5500,7 +5500,7 @@ const desktopModeProps = {
     "Image188": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down-arrow-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/down-arrow-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5561,7 +5561,7 @@ const desktopModeProps = {
     "Image189": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/lock-svgrepo-com.svg"
+        "src": "/ed_tech_demo/app-assets/lock-svgrepo-com.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5610,7 +5610,7 @@ const desktopModeProps = {
     "Image191": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9ad4676054d20ca8f6279_startup-icon-codely-webflow-ecommerce-template.png"
+        "src": "/ed_tech_demo/app-assets/61e9ad4676054d20ca8f6279_startup-icon-codely-webflow-ecommerce-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -5683,7 +5683,7 @@ const desktopModeProps = {
     "Image192": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5720,7 +5720,7 @@ const desktopModeProps = {
     "Image193": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5745,7 +5745,7 @@ const desktopModeProps = {
     "Image194": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5794,7 +5794,7 @@ const desktopModeProps = {
     "Image198": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9ab0c438f74c7d0e03727_growth-icon-codely-webflow-ecommerce-template.png"
+        "src": "/ed_tech_demo/app-assets/61e9ab0c438f74c7d0e03727_growth-icon-codely-webflow-ecommerce-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -5807,7 +5807,7 @@ const desktopModeProps = {
     "Image195": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5832,7 +5832,7 @@ const desktopModeProps = {
     "Image196": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5869,7 +5869,7 @@ const desktopModeProps = {
     "Image197": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5942,7 +5942,7 @@ const desktopModeProps = {
     "Image202": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9a7e2790a3f9fcbbe0352_enterprise-icon-codely-webflow-ecommerce-template.png"
+        "src": "/ed_tech_demo/app-assets/61e9a7e2790a3f9fcbbe0352_enterprise-icon-codely-webflow-ecommerce-template.png"
       },
       "callbacks": {
         "onClick": [
@@ -5955,7 +5955,7 @@ const desktopModeProps = {
     "Image199": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -5980,7 +5980,7 @@ const desktopModeProps = {
     "Image200": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [
@@ -6017,7 +6017,7 @@ const desktopModeProps = {
     "Image201": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
+        "src": "/ed_tech_demo/app-assets/61e9adc6a5ffc97a6336d78e_checkmark-codely-webflow-ecommerce-template.svg"
       },
       "callbacks": {
         "onClick": [

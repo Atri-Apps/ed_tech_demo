@@ -45,7 +45,7 @@ padding-top: 100px;
 flex-direction: column;
 align-items: center;
 row-gap: 5px;
-background-image: url("/app-assets/61e5ac43237b05789265a8c4_testimonial-bg-blob-codely-webflow-ecommerce-template.svg");
+background-image: url("/ed_tech_demo/app-assets/61e5ac43237b05789265a8c4_testimonial-bg-blob-codely-webflow-ecommerce-template.svg");
 background-repeat: repeat;
 background-position-y: -300px;
 background-position-x: -1000px;
@@ -160,7 +160,7 @@ background-color: #050505;
 .p-features.Flex347 {
 display: flex;
 width: 100%;
-background-image: url("/app-assets/61eb3a2129adec31a7d8e57b_footer-bg-blur-codely-webflow-ecommerce-template.png");
+background-image: url("/ed_tech_demo/app-assets/61eb3a2129adec31a7d8e57b_footer-bg-blur-codely-webflow-ecommerce-template.png");
 justify-content: center;
 padding-top: 100px;
 padding-bottom: 100px;
